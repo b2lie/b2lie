@@ -1,24 +1,27 @@
-<center>
-  <img src="https://github.com/b2lie/b2lie/assets/150889376/daa9b73f-991d-48e8-98d0-5f078b16bb03" alt="mew" width="50">
-</center>
+<p align="center">
+  <samp>
+    <img src="https://github.com/b2lie/b2lie/assets/150889376/daa9b73f-991d-48e8-98d0-5f078b16bb03" alt="mew" width="50">
+  </samp>
+</p>
 
-### ⭐ Hi, I'm Batool!
-`just want to learn a bit more during my time at university :p` <br/><br/>
+<p align="center">
+  <samp> 
+			<h3 align="center"> ⭐ Hi, I'm Batool! </h3>
+			just want to learn more during my time at university :p
+  </samp>
+</p>
 
 <img src="https://github.com/b2lie/b2lie/assets/150889376/c0c62f98-a7d8-4ff7-9a45-3d38e9c3d956" alt="header-img" width="390"/><br/>
 
 👩🏻‍🎓 studying Computer Science at [FAST NUCES](https://nu.edu.pk/), Karachi<br/>
-🔭 working on **a C++ Hotel Management System**<br/>
-🌱 learning **Object Oriented Programming** in C++<br/>
 🤝 want to make my previous semester's project better<br/>
+🍊 my interests: cats, games, webdev & coding !
 
 ✉ contact me @ **batoolmao@gmail.com**
 
 
 
 <!---
-![mew](https://github.com/b2lie/b2lie/assets/150889376/daa9b73f-991d-48e8-98d0-5f078b16bb03)
-
 - 👋 Hi, I’m @b2lie
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
