@@ -4,12 +4,10 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp> 
-			<h3 align="center"> ⭐ Hi, I'm Batool! </h3>
-			just want to learn more during my time at university :p
-  </samp>
-</p>
+<h3> ⭐ Hi, I'm Batool! </h3>
+
+`just want to learn more during my time at university :p` <br/>
+
 
 <img src="https://github.com/b2lie/b2lie/assets/150889376/c0c62f98-a7d8-4ff7-9a45-3d38e9c3d956" alt="header-img" width="390"/><br/>
 
