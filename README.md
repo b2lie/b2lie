@@ -25,6 +25,18 @@
 </p>
 
 <p align="center">
+  <samp>
+    <h4 align="center">💻 languages:</h4>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+  </samp>
+</p>
+
+<p align="center">
   <img src="https://github.com/b2lie/b2lie/assets/150889376/c3033f6b-d3b2-4b02-812d-2a1966e16264" width="40">
 </p>
 
