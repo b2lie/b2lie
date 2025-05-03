@@ -31,7 +31,8 @@
 
 <p align="center">
   <samp>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+
   </samp>
 </p>
 
