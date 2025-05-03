@@ -19,7 +19,6 @@
 <p align="center">
   <samp>
     👩🏻‍🎓 studying Computer Science at < FAST NUCES > - Karachi<br/>
-    🤝 let's collaborate to improve my <a href="https://github.com/b2lie/time-warp-labyrinth/">most recent project</a><br/>
     🍊 my interests: cats, games, webdev & ui design!
   </samp>
 </p>
