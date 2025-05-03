@@ -18,7 +18,7 @@
 
 <p align="center">
   <samp>
-    👩🏻‍🎓 studying Computer Science at < FAST NUCES > - Karachi<br/>
+    👩🏻‍🎓 compsci sophomore @ < FAST NUCES ><br/>
     🍊 my interests: cats, games, webdev & ui design!
   </samp>
 </p>
