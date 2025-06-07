@@ -27,7 +27,7 @@
 <p align="center">
   <span>
      👩🏻‍🎓 compsci sophomore @ < FAST NUCES ><br/>
-     🎮 my interests: cats, game dev, web apps and the like
+     🎮 my interests: cats, game dev and the like
        <br/><br/>
 </span>
 </p>
