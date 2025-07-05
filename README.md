@@ -55,7 +55,7 @@
 
 <p align="center">
   <samp>
-    contact me @ <b><a href="mailto:batoolmao@gmail.com">batoolmao@gmail.com</a></b>
+    contact me @ <b><a href="mailto:batoolkazmi@proton.me">batoolkazmi@proton.me</a></b>
   </samp>
 </p>
 
